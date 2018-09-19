@@ -81,4 +81,4 @@ function ready(datapoints) {
     .call(yAxis)
 }
 
-export { xPositionScale, yPositionScale }
+export { xPositionScale, yPositionScale, line }

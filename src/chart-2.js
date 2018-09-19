@@ -134,4 +134,4 @@ function ready([datapointsCimbria, datapointsCimmeria]) {
     .call(yAxis)
 }
 
-export { xPositionScale, yPositionScale }
+export { xPositionScale, yPositionScale, line }
