@@ -4,4 +4,4 @@
 
 This repo has two topics:
 - Drawing lines in D3
-- Continuous integration with [Travis CI](https://travis-ci.org/)
+- Getting familiar with continuous integration with [Travis CI](https://travis-ci.org/)
