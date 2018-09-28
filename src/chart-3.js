@@ -42,7 +42,7 @@ d3.csv(require('./data-multiline.csv'))
 
 function ready(datapoints) {
   /* Draw your lines */
-  console.log('Chart 3 data looks like', datapoints)
+  // console.log('Chart 3 data looks like', datapoints)
 
   const nested = d3
     .nest()
@@ -51,7 +51,7 @@ function ready(datapoints) {
     })
     .entries(datapoints)
 
-  console.log('nested data looks like', nested)
+  // console.log('nested data looks like', nested)
 
   // Give this our GROUPED data,
   // so it has TWO groups (which makes TWO datapoints)
